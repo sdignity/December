@@ -24,11 +24,4 @@ public class Constructor_Demo {
 
 
 
-	private void Constructor_Demo() {
-		// TODO Auto-generated method stub
-		
-	}
-	
-	
-}
 	
